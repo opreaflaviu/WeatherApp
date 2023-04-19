@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="error_message">Weather alerts cannot be loaded</string>
+    <string name="tools_event_name">Heavy Freezing Spray Warning</string>
+    <string name="tools_event_period">Between 9:00 to 12:00, 12 Apr (3 hours)</string>
+    <string name="tools_event_source">NWS Anchorage AK</string>
+    <string name="event_period_1_day_1_hour">Between %s and %s, %s (about an hour) </string>
+    <string name="event_period_1_day_hours">Between %s and %s, %s (about %s hours) </string>
+    <string name="event_period_many_day">From %s to %s (about %s hours) </string>
+    <string name="event_period_without_end_date">From %s </string>
+</resources>
